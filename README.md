@@ -24,14 +24,13 @@
 
 
 
-- 🌱 I’m currently learning Golang.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Golang documentation.
-- 💬 Ask me about Flutter or Angular or Golang related stuff.
+- 🌱 I’m currently working on Golang and Web3 development.
+- 👯 I’m collaborating on web3 projects.
+- 🤔 I’m looking for opportunities in web3.
+- 💬 Ask me about Golang or Flutter or Angular related stuff.
 - 📫 How to reach me: [Twitter - @ChiragGarg](https://twitter.com/ChiragG60642348)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I don't do anything.
-
 
 
 **Languages and Tools:**  
